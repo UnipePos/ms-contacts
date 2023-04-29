@@ -18,7 +18,7 @@ Request Exemple
 ```json
 {
 	"name": "Thomas",
-	"email": "thomas.matheus60@gmail.com",
+	"email": "thomas@teste.com",
 	"phone_number": "98888-8888"
 }
 ```
