@@ -1,0 +1,7 @@
+## Ignoring files by extensions
+*.exe
+*.log
+
+## Database files
+*.db
+*.db.lock
